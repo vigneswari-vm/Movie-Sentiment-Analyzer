@@ -24,29 +24,18 @@ This project demonstrates the power of text classification in Natural Language P
 4. Run the app
 5. View it in browser
 
-📂 Project Structure
-
-sentiment-analysis/
-├── app.py
-├── train_model.py
-├── model/
-├── data/
-├── templates/
-├── static/
-└── README.md
-
 🌟 Features
 
 - Real-time sentiment prediction
 - Stylish UI with background
 - Trained on real IMDB reviews
 
-📸 Screenshots
+## 📸 Screenshots
 
-🏠 Home Page
+### 🏠 Home Page
 ![Home Page](screenshots/home.png)
 
-🔍 Prediction Result
-![Result Page](screenshots/prediction.png)
+### 🎯 Prediction Page
+![Prediction Page](screenshots/prediction.png)
 
 
