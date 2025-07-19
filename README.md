@@ -46,6 +46,7 @@ sentiment-analysis/
 🏠 Home Page
 ![Home Page](screenshots/home.png)
 
-🎯 Sentiment Prediction
-![Prediction](screenshots/prediction.png)
+🔍 Prediction Result
+![Result Page](screenshots/result.png)
+
 
